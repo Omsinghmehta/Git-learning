@@ -7,3 +7,5 @@ console.log("king have been added")
 console.log("king have been added")
 console.log("king 2 comm");
 console.log("latest change");
+// fixing the bugs..
+console.log("bug fixed");
