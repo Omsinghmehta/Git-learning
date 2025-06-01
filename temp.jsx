@@ -4,6 +4,3 @@ console.log("third commit")
 console.log("fourth commit")
 console.log("five commit")
 console.log("six commit")
-// nice 
-// jj
-// jh
